@@ -44,7 +44,6 @@ function Home() {
               <span className="block text-white md:mt-1">Effect</span>
             </p>
           </div>
-          {/* </div> */}
           <div className="text-white lg:w-2/3 ml-2 flex justify-center">
             <div className="text-center md:text-start lg:grid lg:justify-center mt-6 p-4 md:ml-4">
               <div className="font-semibold text-white font-abc ">
@@ -66,7 +65,7 @@ function Home() {
             </div>
           </div>
         </div>
-        <div className="relative text-center mt-6 md:mt-4 lg:-ml-12 md:ml-14">
+        <div className="relative text-center mt-6 md:mt-4 lg:-ml-6 md:ml-14">
           <div className="relative inline-block text-left md:text-md max-w-md text-gray-400 font-bcd lg:w-[40vw]">
             <span className="block pl-0 lg:text-2xl lg:w-[40vw] lg:-ml-10">
               Unleash the power of creativity with Motion Art for
@@ -169,8 +168,6 @@ function Home() {
             <span className="inline lg:hidden">Enable</span>For Whole Page
           </span>
         </div>
-        {/* <div className="lg:flex"> */}
-        {/* <div> */}
         <div className="lg:flex lg:flex-row-1 lg:justify-center md:flex md:flex-row-1 md:justify-center">
           <div className="bg-[#161525] p-8 mx-4 rounded-2xl max-w-md text-center">
             <h2 className="text-white text-2xl font-bold mb-4">
@@ -212,9 +209,6 @@ function Home() {
             </div>
           </div>
         </div>
-
-        {/* </div> */}
-        {/* </div> */}
         <div className="lg:grid lg:justify-center lg:mt-6 lg:p-4 md:grid md:justify-center">
           <div className="mt-6 mx-4 rounded-2xl max-w-md text-center ">
             <h2 className="text-white text-2xl font-bold mb-2">
